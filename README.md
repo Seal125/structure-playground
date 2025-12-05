@@ -25,3 +25,4 @@ _this is mainly going to be where im jotting down thoughts, might move this into
 ### Notes
 
 - i will NOT be using Gatsby because I already updated nodejs to 25 and im not downgrading, but i will get to it...one day... (https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#installation-guide)
+- T^T create-react-app is deprecated apparently, so to respect their sunset, i shall look into some other alternatives mentioned here (https://react.dev/blog/2025/02/14/sunsetting-create-react-app)
