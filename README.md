@@ -24,4 +24,4 @@ _this is mainly going to be where im jotting down thoughts, might move this into
 
 ### Notes
 
-- i will NOT be using Gatsby because I already updated nodejs to 25 and im not downgrading, but i will get to it...one day...
+- i will NOT be using Gatsby because I already updated nodejs to 25 and im not downgrading, but i will get to it...one day... (https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#installation-guide)
