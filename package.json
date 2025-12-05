@@ -1,0 +1,20 @@
+{
+  "name": "structure-playground",
+  "version": "1.0.0",
+  "description": "because i love thinking about organization 🙂‍↕️",
+  "homepage": "https://github.com/Seal125/structure-playground#readme",
+  "bugs": {
+    "url": "https://github.com/Seal125/structure-playground/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seal125/structure-playground.git"
+  },
+  "license": "ISC",
+  "author": "steph",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
