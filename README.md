@@ -4,12 +4,14 @@ because i love thinking about organization 🙂‍↕️
 ## The intent of this (so i dont forget) is that i want to see what i PERSONALLY feel is the best way to organize and structure files depending on what im doing
 _this is mainly going to be where im jotting down thoughts, might move this into another .md file once i have something going_
 
+---
 
 ### This will likely have a couple of different frameworks centered around React and maybe Python because im indecisive and wanna do some frontend
 - if calling APIs, have a structure around those
 - if it's frontend stuff, or styling related, decide a structure for that
 - im **aware** that different frameworks have some opinions, but i would like to work around those anyway and see if there's a general consensus no matter the framework
 
+---
 
 ### Questions to think about:
 - what does optimization of structure look like? how is it done?
