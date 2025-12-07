@@ -24,5 +24,6 @@ _this is mainly going to be where im jotting down thoughts, might move this into
 
 ### Notes
 
-- i will NOT be using Gatsby because I already updated nodejs to 25 and im not downgrading, but i will get to it...one day... (https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#installation-guide)
+- i am now using nodejs 21, as this seems to be the most stable version for plenty of the frameworks and libraries im using. in other words, i have been naive to think that the latest version works with everything currently;;
 - T^T create-react-app is deprecated apparently, so to respect their sunset, i shall look into some other alternatives mentioned here (https://react.dev/blog/2025/02/14/sunsetting-create-react-app)
+- i will be using tailwind because i loveeeee how it looks, so this likely means that styling will be either in the html itself, or organized elsewhere - whichever it boils down to, i will be doing my best to create good names for everything at the very least
