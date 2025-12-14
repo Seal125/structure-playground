@@ -1,5 +1,7 @@
 # structure-playground
 
+# I am moving this to codeberg, all updates will be made there :)
+
 because i love thinking about organization 🙂‍↕️
 
 ## The intent of this (so i dont forget) is that i want to see what i PERSONALLY feel is the best way to organize and structure files depending on what im doing
